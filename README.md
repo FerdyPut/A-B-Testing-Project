@@ -6,16 +6,4 @@ In this experiment, the developers aim to evaluate the effect of changing the ga
 # Results:
 <iframe src="https://drive.google.com/file/d/15qPKA8zDnGyVMjlbPHlyq_k9_ZA5xtkp/preview" width="100%" height="600px"></iframe>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF Viewer</title>
-</head>
-<body>
-    <embed src="namafile.pdf" width="100%" height="600px" type="application/pdf">
-</body>
-</html>
-
 
