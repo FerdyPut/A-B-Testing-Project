@@ -4,6 +4,18 @@ A/B Testing Project of Cookies Cats is an experimental study aimed at analyzing 
 # Goals
 In this experiment, the developers aim to evaluate the effect of changing the gate position on player retention. In the game **Cookie Cats**, players must progress through various levels, and there are "gates" that require them to wait or pay to continue.
 # Results:
-![image](https://github.com/user-attachments/assets/a004b711-78c6-4951-870e-b096ee6ff6f0)
-![image](https://github.com/user-attachments/assets/9471a5c7-06c5-4769-be0d-fd1174ccd176)
+<iframe src="https://drive.google.com/file/d/15qPKA8zDnGyVMjlbPHlyq_k9_ZA5xtkp/preview" width="100%" height="600px"></iframe>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer</title>
+</head>
+<body>
+    <embed src="namafile.pdf" width="100%" height="600px" type="application/pdf">
+</body>
+</html>
+
 
