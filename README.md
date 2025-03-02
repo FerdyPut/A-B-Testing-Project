@@ -15,6 +15,8 @@ In this experiment, the developers aim to evaluate the effect of changing the ga
 
 <h4> You can see my project on: </h4>
 
+PDF: [PDF of Analysis!](./AB%20Testing%20Project%20of%20Cookies%20Cats.pdf)
+
 Google Colab: [A/B Testing of Cookies Cats!](./AB%20Testing%20Project%20of%20Cookies%20Cats.ipynb)
 
 
