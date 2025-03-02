@@ -1,1 +1,12 @@
-<iframe src="https://drive.google.com/file/d/15qPKA8zDnGyVMjlbPHlyq_k9_ZA5xtkp/preview" width="100%" height="600px"></iframe>
+# A/B Testing Project of Cookies Cats
+The A/B Testing Project of Cookie Cats is an experimental study aimed at analyzing the impact of game design changes on player retention, specifically in the game Cookie Cats, a mobile puzzle game developed by Tactile Entertainment.
+
+# Goals
+In this experiment, the developers aim to evaluate the effect of changing the gate position on player retention. In the game Cookie Cats, players must progress through various levels, and there are "gates" that require them to wait or pay to continue.
+
+# View of Cookies Cats
+![image](https://github.com/user-attachments/assets/74cc6299-5001-4a6d-9f49-7325bf6a8575)
+
+![image](https://github.com/user-attachments/assets/4e22b943-6f0d-41d8-8d33-ebb37284019a)
+
+<h4> You can see my project on: </h4>
